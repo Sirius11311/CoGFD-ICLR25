@@ -1,0 +1,7 @@
+pretrained_models/stable-diffusion-v1-5/
+output/
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

@@ -1,0 +1,38 @@
+# Core PyTorch and Deep Learning
+torch>=1.9.0
+torchvision>=0.10.0
+torchaudio>=0.9.0
+
+# Diffusion Models and Transformers
+diffusers>=0.21.0
+transformers>=4.21.0
+accelerate>=0.20.0
+
+# Image Processing
+Pillow>=8.0.0
+
+# Data Processing
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Progress Bars and Logging
+tqdm>=4.62.0
+
+# Evaluation and Metrics
+clip-score>=0.1.0
+
+# Machine Learning Utilities
+pytorch-lightning>=1.9.0
+
+# LLM Interaction and Agents
+autogen>=0.2.0
+openai>=1.0.0
+
+# JSON Processing (for enhanced JSON support)
+json5>=0.9.0
+
+# Scientific Computing
+scipy>=1.7.0
+
+# Optional: For better performance
+# xformers  # Uncomment if you want memory-efficient attention 
