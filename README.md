@@ -119,7 +119,7 @@ For a complete concept combination erasing workflow, you can use the provided sh
 
 ```bash
 chmod +x run.sh
-./run.sh
+sh run.sh
 ```
 
 Or follow the step-by-step process below:
