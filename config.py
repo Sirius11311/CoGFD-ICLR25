@@ -1,7 +1,5 @@
 from pathlib import Path
 
-# OPENAI_API_KEY = "sk-zk2e1e65b3d7b3551c49ebae268849667e467e771e9045b3"
-# BASE_URL = "https://api.zhizengzeng.com/v1/"
 OPENAI_API_KEY = "YOUR_KEY"
 BASE_URL = "YOUR_BASE_URL"
 
