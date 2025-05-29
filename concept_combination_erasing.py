@@ -25,12 +25,6 @@ from logic_graph_iter_construct import generate_and_save_iterative_graphs, extra
 from config import (PRETRAINED_MODEL_PATH, LOGICGRAPH_DIR, FINETUNE_MODEL_DIR, PREPARED_DATA_DIR)
 
 
-import torch.backends.cudnn as cudnn
-# 禁用cuDNN的一些优化
-cudnn.enabled = False
-cudnn.benchmark = False
-cudnn.deterministic = True
-
 logger = get_logger(__name__)
 
 
